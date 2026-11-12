@@ -153,16 +153,17 @@ I enjoy transforming ideas into functional applications, solving technical chall
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikyathma&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vikyathma&theme=github-dark-blue&hide_border=true" height="165" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vikyathma&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Vikyathma&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikyathma&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikyathma&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
----
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vikyathma&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 ## 🎯 Currently Exploring
 
 - Advanced Full Stack Development
